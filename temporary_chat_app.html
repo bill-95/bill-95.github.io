@@ -55,7 +55,7 @@
 <script src="https://code.jquery.com/jquery-1.11.1.js"></script>
 <script>
    $(function () {
-       var socket = io('https://locohost.ml/chat');
+       var socket = io('https://locohost.ml/chat/');
        $('form').submit(function(e){
            e.preventDefault(); // prevents page reloading
            var senderMsg = $('#nickname').val() + ": " + $('#m').val();
