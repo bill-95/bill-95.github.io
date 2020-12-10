@@ -2,10 +2,14 @@
 	padding: 50px auto 50px auto;
 }
 
+#publications {
+	padding: 50px 0px 50px 0px;
+}
+
 #contact {
 	height: 500px;
 	padding: 50px 0px 50px 0px;
-	background-color: rgb(130,200,240);
+	background-color: rgb(158,143,178);
 }
 
 .jumbotron {
@@ -17,8 +21,7 @@
 	margin: 55px 0px 0px 0px;
 }
 
-.card {
-	margin: 20px auto 20px auto;
+.custom-card {
 	min-width: 250px;
 	/* max-width: 350px; */
 }
