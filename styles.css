@@ -1,14 +1,14 @@
 #portfolio {
-	padding-bottom: 50px;
+	padding-top: 50px;
 }
 
 #publications {
-	padding-bottom: 50px;
+	padding-top: 50px;
 }
 
 #contact {
-	height: 600px;
-	padding: 50px 0px 50px 0px;
+	height: 650px;
+	padding-top: 50px;
 	background-color: rgb(158,143,178);
 }
 
@@ -32,6 +32,6 @@
     object-fit: cover;
 }
 
-.footer-text {
+#footer-text {
 	padding-top: 80px;
 }
