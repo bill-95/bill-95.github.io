@@ -21,6 +21,10 @@
 	height: 600px;
 }
 
+.btn {
+	margin-bottom: 6px;
+}
+
 .custom-card {
 	min-width: 250px;
 	/* max-width: 350px; */
